@@ -1,0 +1,6 @@
+# Credentials and local settings
+.env
+*.key
+*.pem
+__pycache__/
+*.py[cod]
